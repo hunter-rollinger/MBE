@@ -41,3 +41,9 @@ C:\Users\Public\Documents\zenon_Projects\
 
 - **project.ini**
   - File is located at ~\RT\FILES\zenon\system\
+
+
+# Experimental & Production Branches
+- After the production branch has had an initial upload create the experimental branch.
+- Once the experimental branch is created push all updates to it and create pull requests to move updates to production.
+- Pull requests to production should only be done once the experimental branch is tested to be stable.
